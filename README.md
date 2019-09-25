@@ -26,6 +26,7 @@
 
 #### Evaluation notebooks:
 * monitoring.ipynb : plots monitoring results during mapping 
+* nterpolation_test.ipynb : simple test of scipy interpolation library 
 * mapping_0809_3D.ipynb : exports 3D (2 geometrical + 1 magnetic component) plots 
 * mapping_0809_3D_2D_interpolation.ipynb : exports 3D (2 geometrical + 1 magnetic component) plots with interpolated points
 * mapping_0809_3D_2D_interpolation_floor.ipynb : exports color plots of the B-field neasr the floor 
