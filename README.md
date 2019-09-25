@@ -1,9 +1,11 @@
 # tucan-magnetic-mapping-201908
-### This repository contains the data of mapping performed on the August 9, 2019 and the evaluation notebooks
+### This repository contains data of mapping performed on the August 9, 2019 and the evaluation notebooks
 
 ### Description of the contents: 
 #### Data directories
-* 20190809_mapping_all : the original directoy, for the archiving purpose
+* Mapping_0809_all : Data diretory
+* 20190809_mapping_all : the original directoy includes everything, for the archiving purpose
+
 #### Monitoring data:
 * online_data.csv : monitoring data before the mapping was started 
 * online_data09-08-19.csv : monitoring during the mapping measurements 
@@ -21,7 +23,7 @@
 * plots_floor_gradients
 * fall_run 
 
-#### Folders made to export csv fiels which were shared to Russ anda Maedeh
+#### Folders made to export csv files which were shared to Russ and Maedeh
 * data_csv
 
 #### Evaluation notebooks:
